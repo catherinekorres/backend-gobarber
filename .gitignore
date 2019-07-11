@@ -1,4 +1,1 @@
-/node_modules
-.eslintrc.js
-.editorconfig
-.prettierrc
+node_modules
